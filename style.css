@@ -1,0 +1,20 @@
+/* 
+Theme Name:		 Envoblog-child
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Envoblog-child is a child theme of Envo Blog, created by ChildTheme-Generator.com
+Author:			 Eva Sofie Emblemsvåg
+Author URI:		 http://childtheme-generator.com/
+Template:		 envo-blog
+Version:		 1.0.0
+Text Domain:	 envoblog-child
+*/
+
+
+/*
+    Add your custom styles here
+*/
+
+body {
+	background-color: grey;
+}
+
